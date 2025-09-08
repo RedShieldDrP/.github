@@ -49,7 +49,7 @@ RedShield AI equips leaders with exclusive security products built on a foundati
 We are always open to collaboration, discussion, and new challenges. Reach out to us to learn more about our research, products, or partnership opportunities.
 
 * **🌐 Website:** [redshield.in](https://redshield.in)
-* **📧 Email:** [contact@redshield.ai](mailto:info@redshield.ai)
+* **📧 Email:** [info@redshield.in](mailto:info@redshield.in)
 * **🔗 LinkedIn:** [RedShield](https://www.linkedin.com/company/redshield-drp/)
 
 ---
