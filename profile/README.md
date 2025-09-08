@@ -10,7 +10,7 @@
 
 ## 📖 About RedShield AI
 
-**RedShield AI** is the intelligence and research arm of **Dr. Pinnacle**, dedicated to navigating the complexities of artificial intelligence, cybersecurity, and emerging technologies. We combine the analytical rigor of traditional analyst firms with the agility and foresight required for the AI era.
+**RedShield AI** is the intelligence and research arm of  [**Dr. Pinnacle**](https://www.drpinnacle.com/), dedicated to navigating the complexities of artificial intelligence, cybersecurity, and emerging technologies. We combine the analytical rigor of traditional analyst firms with the agility and foresight required for the AI era.
 
 Our purpose is to bridge the gap between deep research, actionable insights, and cutting-edge tools. We empower enterprises to stay **secure**, **compliant**, and **ahead of disruption** in a rapidly evolving digital landscape.
 
