@@ -1,4 +1,4 @@
-# 🛡️ RedShield AI
+# 🛡️ RedShield
 
 ### Intelligence and Research for the AI Era.
 
