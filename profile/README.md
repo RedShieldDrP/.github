@@ -1,4 +1,8 @@
-# 🛡️ RedShield
+<p align="center">
+  <img src="https://redshield.in/assets/redshelid1.png" alt="RedShield AI Logo" width="500"/>
+</p>
+<!-- # 🛡️ RedShield -->
+<!--  #  RedShield -->
 
 ### Intelligence and Research for the AI Era.
 
